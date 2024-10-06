@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-06T22:18:04 IST" name="Surefire suite" finished-at="2024-10-06T22:18:27 IST" duration-ms="23326">
+    <groups>
+    </groups>
+    <test started-at="2024-10-06T22:18:04 IST" name="Surefire test" finished-at="2024-10-06T22:18:27 IST" duration-ms="23326">
+      <class name="com.SeleniumGrid.FirstGridTest">
+        <test-method signature="testOnRemoteChrome()[pri:0, instance:com.SeleniumGrid.FirstGridTest@63a65a25]" started-at="2024-10-06T22:18:04 IST" name="testOnRemoteChrome" finished-at="2024-10-06T22:18:27 IST" duration-ms="23281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnRemoteChrome -->
+      </class> <!-- com.SeleniumGrid.FirstGridTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
